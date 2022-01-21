@@ -43,10 +43,11 @@ PlotPosOnly = 0;
 % Simulation initiallization
 % InitThree
 % InitBlock
-InitCirc
+% InitCirc
+InitEllipse
 % InitBlock0
 % InitBlock0FD
-%InitVStream
+% InitVStream
 % InitHCP
 % InitHCPBlob
 % InitVStreamHCP
